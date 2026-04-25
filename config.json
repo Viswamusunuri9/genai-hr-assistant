@@ -1,0 +1,11 @@
+{
+    "name": "Gen AI powered hr assistant",
+    "description": "An HR assistant that uses Gen AI to help with various HR tasks such as answering employee queries, providing information about company policies, and assisting with onboarding processes.",
+    "version": "1.0.0",
+    "author": "Viswa Musunuri",
+    "license": "MIT",
+    "dependencies": {
+        "openai": "^3.0.0",
+        "express": "^4.17.1"
+    }
+}
