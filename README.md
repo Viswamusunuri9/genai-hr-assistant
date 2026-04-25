@@ -72,3 +72,5 @@ Add multiple HR documents
 Chat memory (multi-turn conversation)
 Better UI (chat-style interface)
 Deployment (Streamlit Cloud)
+
+![alt text](image.png)
